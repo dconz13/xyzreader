@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="colorPrimary">@color/deep_purple_500</item>
+        <item name="colorPrimaryDark">@color/deep_purple_700</item>
+        <item name="colorAccent">@color/orange_A400</item>
+    </style>
+
+    <style name="AppTheme.Main" parent="Theme.Bacon">
+        <!-- Enter / Exit transitions -->
+        <item name="android:windowEnterTransition">@transition/main_grid_explode</item>
+        <item name="android:windowExitTransition">@transition/main_grid_explode</item>
+        <!-- Shared element transitions -->
+        <item name="android:windowSharedElementEnterTransition">@transition/change_image_transform</item>
+        <item name="android:windowSharedElementExitTransition">@transition/change_image_transform</item>
+    </style>
+
+    <style name="Theme.Bacon.Detail" parent="Theme.Bacon">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Enter / Exit transitions -->
+        <item name="android:windowEnterTransition">@transition/detail_enter</item>
+        <item name="android:windowExitTransition">@transition/detail_enter</item>
+        <!-- Shared element transitions -->
+        <item name="android:windowSharedElementEnterTransition">@transition/change_image_transform</item>
+        <item name="android:windowSharedElementExitTransition">@transition/change_image_transform</item>
+    </style>
+
+</resources>

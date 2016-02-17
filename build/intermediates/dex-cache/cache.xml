@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_2d6a4cdf4268ca2ccebebee1a51864b08f7f5c80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_ccd8a5f4748c6ac69edbb5baecdc354aaf59cade.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_f756a432bfaded63903462e8be633ed00b826bef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_f40c9bee3bd82de2808485307e7739a7115a6790.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_cb9bc1fc0f44c1bf3df68e92b61eb786815deb94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.1.1_77aa68b82e7603432f90c293f1d9f8e2fe32921f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_274994a77750fbf769a5036e5618e69de3c48586.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.1.1_7881622a9f019cd20de4a5e53aa8fe067f326e00.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_72d2fa1f9123e33746c5f1b109823e4519c49da6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_08f7af55af2d7a3fdef72b880ee3902dc4694f94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_5e3a41c86d01ec15ccc69924dfc6b793688e02ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_028de222543b61179124cce8c86360dee0923bd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Dillon Connolly\Documents\GitHub\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_44cc7ad8d722c8ae8492ebc83b5ece1a942d5e15.jar" />
+    </item>
+
+</items>
