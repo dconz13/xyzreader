@@ -192,12 +192,12 @@
         "source": "C:\\Users\\Dillon Connolly\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\layout\\fragment_article_detail.xml"
     },
     {
-        "merged": "C:\\Users\\Dillon Connolly\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_article.xml",
-        "source": "C:\\Users\\Dillon Connolly\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\layout\\list_item_article.xml"
-    },
-    {
         "merged": "C:\\Users\\Dillon Connolly\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Dillon Connolly\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dillon Connolly\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_article.xml",
+        "source": "C:\\Users\\Dillon Connolly\\Documents\\GitHub\\xyzreader\\XYZReader\\src\\main\\res\\layout\\list_item_article.xml"
     },
     {
         "merged": "C:\\Users\\Dillon Connolly\\Documents\\GitHub\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
