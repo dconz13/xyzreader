@@ -22,7 +22,9 @@
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
-
+    <color name="text_secondary">#6000</color>
+    <color name="background_white">#fff</color>
+    <color name="secondary_white">#8fff</color>
 
     <color name="deep_purple_300">#9575CD</color>
     <color name="deep_purple_500">#673AB7</color>
